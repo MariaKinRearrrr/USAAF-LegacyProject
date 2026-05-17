@@ -88,3 +88,12 @@ a {
 a:hover {
     color: #3e382d; /* เปลี่ยนเป็นสีน้ำตาลเข้มเวลาเมาส์ชี้ */
 }
+
+/* บังคับล้างเอฟเฟกต์ที่ระบบ GitHub แอบมาครอบทับ */
+.markdown-body, .markdown-body h1, .markdown-body h2, .markdown-body p, .markdown-body a {
+    font-family: 'MyUSAAFFont', sans-serif !important;
+    color: #3e382d !important;
+}
+.markdown-body a {
+    color: #5c2212 !important;
+}
