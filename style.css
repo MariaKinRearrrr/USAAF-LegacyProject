@@ -2,7 +2,7 @@
 /* 1. ประกาศให้เว็บรู้จักไฟล์ฟอนต์ที่ใส่ไว้ในโฟลเดอร์ */
 @font-face {
     font-family: 'MyUSAAFFont'; 
-    src: url('./fonts/MyUSAAFFont.ttf') format('truetype');
+    src: url('./MyUSAAFFont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
