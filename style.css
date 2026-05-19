@@ -70,7 +70,7 @@ img {
 
 /* ตอนเมาส์ชี้ (Hover) : แอบเลื่อนขึ้นนิดนึงให้รู้ว่าทักทาย */
 .mascot-img:hover {
-    transform: translateY(-5px);
+    transform: translateY(-15px) rotate(5deg);
 }
 
 /* ตอนเมาส์คลิกค้าง (Active) : หมุนเบาๆ แอนิเมชันดุ๊กดิ๊ก */
